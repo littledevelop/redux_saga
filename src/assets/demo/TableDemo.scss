@@ -1,0 +1,26 @@
+.table-demo {
+    .p-datatable-frozen-tbody {
+        font-weight: bold;
+    }
+
+    .p-datatable-scrollable {
+        .p-frozen-column {
+            font-weight: bold;
+        }
+    }
+
+    .image-text {
+        vertical-align: middle;
+        margin-left: .5rem;
+    }
+}
+
+
+    @media  (max-width: 1300px){
+        .dashboard-banner{
+            width: 53%;
+            margin-top: 24px;
+            margin-bottom: 24px;
+        }
+    }
+
